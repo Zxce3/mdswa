@@ -1,0 +1,30 @@
+<section class="full md:half lg:quarter lg:screen-v-scroll flex row wrap">
+    <header class="full noselect pt">
+        <img class="avatar" src="https://github.com/mdswa.png" alt="{{ site.name }}" srcset="https://avatars.githubusercontent.com/u/117398989?v=4">
+        <div class="pad break-anywhere pr-1 pb-0 svelte-1enhvii blue">
+            <div class="md:hidden"><span class="green"><em>{{ site.name }}</em></span>();</div>
+            <div class="hidden md:inline">{{ site.title }}</div>
+            <br class="hidden md:inline">
+            <br class="hidden md:inline">
+        </div>
+    </header>
+    <nav class="full noselect grey">
+        <div class="pad pr-0 pt-0">
+            <a href="../" class="yellow">[Home]</a>
+            {% for page in collections.pages %}
+            <a href="{{ page.url }}" class="blue">[{{ page.data.title }}]</a><br>
+            {% endfor %}
+        </div>
+    </nav>
+    <div class="hidden md:flex lg:hidden">
+        <aside class="full noselect py">
+            <div class="pad green x-multi-column">
+                        {%- for r in site.resource -%}
+                        <a href="{{ r.url }}" class="href"><em>{{ r.name }}</em></a>
+                        <br>
+                        {%- endfor -%}
+            </div>
+            <div class="y-space"></div>
+        </aside>
+    </div>
+</section>
