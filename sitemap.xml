@@ -23,7 +23,7 @@
   <entry>
     <title>News</title>
     <link href="https://mdswa.zxce3.net/news/"/>
-    <updated>2022-11-10T01:46:26Z</updated>
+    <updated>2022-11-10T01:54:28Z</updated>
     <id>https://mdswa.zxce3.net/news/</id>
     <content xml:lang="en" type="html">&lt;section id=&quot;content&quot; class=&quot;body&quot;&gt;
 	&lt;h1&gt;Articles&lt;/h1&gt;
@@ -52,7 +52,7 @@ This is my first post, I&#39;m born on {{ page.date | fullDate }}.
   <entry>
     <title>FAQ</title>
     <link href="https://mdswa.zxce3.net/faq/"/>
-    <updated>2022-11-10T01:46:26Z</updated>
+    <updated>2022-11-10T01:54:28Z</updated>
     <id>https://mdswa.zxce3.net/faq/</id>
     <content xml:lang="en" type="html">&lt;h2 id=&quot;frequently-asked-questions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://mdswa.zxce3.net/faq/#frequently-asked-questions&quot;&gt;﹟&lt;/a&gt; Frequently Asked Questions&lt;/h2&gt;
 &lt;h3 id=&quot;what-is-mandakara-sadewa%3F&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://mdswa.zxce3.net/faq/#what-is-mandakara-sadewa%3F&quot;&gt;﹟&lt;/a&gt; What is Mandakara Sadewa?&lt;/h3&gt;
@@ -75,7 +75,7 @@ This is my first post, I&#39;m born on {{ page.date | fullDate }}.
   <entry>
     <title>Credits</title>
     <link href="https://mdswa.zxce3.net/credits/"/>
-    <updated>2022-11-10T01:46:26Z</updated>
+    <updated>2022-11-10T01:54:28Z</updated>
     <id>https://mdswa.zxce3.net/credits/</id>
     <content xml:lang="en" type="html">&lt;p&gt;This web theme is based on &lt;a href=&quot;https://musicforprogramming.net/about&quot;&gt;https://musicforprogramming.net/about&lt;/a&gt;
 and remade by &lt;a href=&quot;https://zxce3.net/&quot;&gt;Zxce3&lt;/a&gt; with &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; and &lt;a href=&quot;https://hotwire.dev/&quot;&gt;Hotwire&lt;/a&gt;.&lt;/p&gt;
@@ -85,7 +85,7 @@ and remade by &lt;a href=&quot;https://zxce3.net/&quot;&gt;Zxce3&lt;/a&gt; with 
   <entry>
     <title>Contact</title>
     <link href="https://mdswa.zxce3.net/contact/"/>
-    <updated>2022-11-10T01:46:26Z</updated>
+    <updated>2022-11-10T01:54:28Z</updated>
     <id>https://mdswa.zxce3.net/contact/</id>
     <content xml:lang="en" type="html">&lt;p&gt;&lt;a href=&quot;mailto:mdswa@zxce3.net&quot;&gt;mdswa@zxce3.net&lt;/a&gt;&lt;/p&gt;
 </content>
@@ -93,7 +93,7 @@ and remade by &lt;a href=&quot;https://zxce3.net/&quot;&gt;Zxce3&lt;/a&gt; with 
   <entry>
     <title>About</title>
     <link href="https://mdswa.zxce3.net/about/"/>
-    <updated>2022-11-10T01:46:26Z</updated>
+    <updated>2022-11-10T01:54:28Z</updated>
     <id>https://mdswa.zxce3.net/about/</id>
     <content xml:lang="en" type="html">&lt;p&gt;My name is Mandakara Sadewa or Mdswa&lt;/p&gt;
 &lt;p&gt;I’ve born on Thu Nov 03 2022.&lt;/p&gt;
