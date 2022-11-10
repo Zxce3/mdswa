@@ -10,8 +10,8 @@ on:
 jobs:
   build:
     environment:
-    name: github-pages
-    url: ${{ steps.deployment.outputs.page_url }}
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -29,7 +29,7 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: public
-          keep_history: true
+          keep_history: false
           committer: Mandakara Sadewa <mdswa@zxce3.net>
           author: Mandakara Sadewa <mdswa@zxce3.net>
           jekyll: false
