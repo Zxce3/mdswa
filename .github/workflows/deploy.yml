@@ -30,6 +30,6 @@ jobs:
           committer: Mandakara Sadewa <mdswa@zxce3.net>
           author: Mandakara Sadewa <mdswa@zxce3.net>
           jekyll: false
-          message: "Update ${{ env.TIME }}"
+          commit_message: "Update ${{ env.TIME }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
