@@ -20,8 +20,9 @@ jobs:
           node-version: 16.17.1
       - run: yarn
       - run: yarn run publish
-      - run: |
-          export TIME=`date '+%Y-%b-%A-%H:%M:%S %Z'`
+      - name: add date
+        run: |
+          echo TIME=`date '+%Y-%b-%A-%H:%M:%S %Z'` >> $GITHUB_ENV
           echo $TIME
       - name: Push to gh-pages branch
         if: success()
