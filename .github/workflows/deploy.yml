@@ -1,4 +1,4 @@
-name: Deploy to Github Pages
+name: Push to gh-pages branch
 
 on:
   push:
@@ -23,17 +23,15 @@ jobs:
       - run: |
           export TIME=`date '+%Y-%b-%A-%H:%M:%S %Z'`
           echo $TIME
-      - name: Deploy to GitHub Pages
+      - name: Push to gh-pages branch
         if: success()
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: gh-pages
           build_dir: public
-          keep_history: false
+          keep_history: true
           committer: Mandakara Sadewa <mdswa@zxce3.net>
           author: Mandakara Sadewa <mdswa@zxce3.net>
-          jekyll: false
-          commit_message: Update ${{ env.TIME }}
+          commit_message: "Update `${{ env.TIME }}`"
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          
