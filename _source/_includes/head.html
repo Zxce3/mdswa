@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{{ site.title }}{% if section_title %} {{ section_title }}{% endif %}{% if title %}: {{ title }}{% endif %}</title>
+  <title>{% if title %}{{ title }} -{% endif %} {{ site.title }}</title>
   {% if description -%}
     <meta name="description" content="{{ description }}">
   {% endif -%}
