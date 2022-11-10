@@ -1,5 +1,9 @@
 # Mandakara Sadewa
 
+[![Deploy to gh-pages branch](https://github.com/Zxce3/mdswa/actions/workflows/deploy.yml/badge.svg)](https://github.com/Zxce3/mdswa/actions/workflows/deploy.yml)
+
+[![pages-build-deployment](https://github.com/Zxce3/mdswa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Zxce3/mdswa/actions/workflows/pages/pages-build-deployment)
+
 ## What is this?
 
 This is for Mandakara Sadewa, a web theme based on [https://musicforprogramming.net/about](https://musicforprogramming.net/about) and remade with [11ty](https://www.11ty.dev/) and [Hotwire](https://hotwire.dev/).
