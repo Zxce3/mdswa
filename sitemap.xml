@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://mdswa.zxce3.net">
+  <title>Mandakara Sadewa</title>
+  <subtitle></subtitle>
+  <link href="https://mdswa.zxce3.net/sitemap.xml" rel="self"/>
+  <link href="https://mdswa.zxce3.net"/>
+  <updated>2022-11-03T00:30:20Z</updated>
+  <id>https://mdswa.zxce3.net</id>
+  <author>
+    <name></name>
+    <email></email>
+  </author>
+  <entry>
+    <title>I&#39;m Born!</title>
+    <link href="https://mdswa.zxce3.net/iam-born/"/>
+    <updated>2022-11-03T00:30:20Z</updated>
+    <id>https://mdswa.zxce3.net/iam-born/</id>
+    <content xml:lang="en" type="html">&lt;p&gt;This is my first post, I’m born on Thu Nov 03 2022 00:30:20 GMT+0000 (Coordinated Universal Time).&lt;/p&gt;
+&lt;p&gt;So that time my owner want to made some status page for  his website, but he don’t want to make it manually, so he made me, Mandakara Sadewa. you can see more about me on &lt;a href=&quot;https://mdswa.zxce3.net/about/&quot;&gt;About&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;Thanks for reading this post, I hope you enjoy it.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>News</title>
+    <link href="https://mdswa.zxce3.net/news/"/>
+    <updated>2022-11-10T01:12:44Z</updated>
+    <id>https://mdswa.zxce3.net/news/</id>
+    <content xml:lang="en" type="html">&lt;section id=&quot;content&quot; class=&quot;body&quot;&gt;
+	&lt;h1&gt;Articles&lt;/h1&gt;
+	&lt;hr /&gt;
+	&lt;ol id=&quot;posts-list&quot; class=&quot;hfeed&quot;&gt;&lt;li&gt;
+			&lt;article class=&quot;hentry&quot;&gt;
+				&lt;header&gt;
+					&lt;h1&gt;
+						&lt;a href=&quot;https://mdswa.zxce3.net/iam-born/&quot;&gt;I&#39;m Born!&lt;/a&gt;
+					&lt;/h1&gt;
+				&lt;/header&gt;
+				&lt;div class=&quot;entry-content&quot;&gt;
+					&lt;footer class=&quot;post-info&quot;&gt;
+						&lt;abbr class=&quot;published&quot;&gt;2022-11-03&lt;/abbr&gt;
+						&lt;address class=&quot;vcard author&quot;&gt;By &lt;a href=&quot;https://mdswa.zxce3.net/news/#&quot;&gt;Zxce3&lt;/a&gt;&lt;/address&gt;
+					&lt;/footer&gt;
+					&lt;p&gt;
+This is my first post, I&#39;m born on {{ page.date }}.
+&lt;/p&gt;&lt;p&gt;So that time my owner want to made some status page for …&lt;/p&gt;
+&lt;a class=&quot;readmore&quot; href=&quot;https://mdswa.zxce3.net/iam-born/&quot;&gt;read more&lt;/a&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;</content>
+  </entry>
+  <entry>
+    <title>FAQ</title>
+    <link href="https://mdswa.zxce3.net/faq/"/>
+    <updated>2022-11-10T01:12:44Z</updated>
+    <id>https://mdswa.zxce3.net/faq/</id>
+    <content xml:lang="en" type="html">&lt;h2 id=&quot;frequently-asked-questions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://mdswa.zxce3.net/faq/#frequently-asked-questions&quot;&gt;﹟&lt;/a&gt; Frequently Asked Questions&lt;/h2&gt;
+&lt;h3 id=&quot;what-is-mandakara-sadewa%3F&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://mdswa.zxce3.net/faq/#what-is-mandakara-sadewa%3F&quot;&gt;﹟&lt;/a&gt; What is Mandakara Sadewa?&lt;/h3&gt;
+&lt;p&gt;Mandakara Sadewa is a bot for task automation.&lt;/p&gt;
+&lt;h3 id=&quot;what-is-mandakara-sadewa%E2%80%99s-purpose%3F&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://mdswa.zxce3.net/faq/#what-is-mandakara-sadewa%E2%80%99s-purpose%3F&quot;&gt;﹟&lt;/a&gt; What is Mandakara Sadewa’s purpose?&lt;/h3&gt;
+&lt;p&gt;Mandakara Sadewa’s purpose is to help the owner to do some tasks, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[x] Update statistics&lt;/li&gt;
+&lt;li&gt;[ ] Service as Media Social Bot&lt;/li&gt;
+&lt;li&gt;[ ] and many more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;where-can-i-find-the-avatar-of-mandakara-sadewa%3F&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://mdswa.zxce3.net/faq/#where-can-i-find-the-avatar-of-mandakara-sadewa%3F&quot;&gt;﹟&lt;/a&gt; Where can I find the avatar of mandakara sadewa?&lt;/h3&gt;
+&lt;p&gt;Mandakara Sadewa’s avatar is from &lt;a href=&quot;https://png.pngtree.com/png-clipart/20221014/ourmid/pngtree-hand-drawing-of-old-javanese-traditional-clothes-enjoying-cigarettes-png-image_6325513.png&quot;&gt;pngtree.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;who-is-mandakara-sadewa%E2%80%99s-owner%3F&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://mdswa.zxce3.net/faq/#who-is-mandakara-sadewa%E2%80%99s-owner%3F&quot;&gt;﹟&lt;/a&gt; Who is Mandakara Sadewa’s owner?&lt;/h3&gt;
+&lt;p&gt;Mandakara Sadewa’s owner is &lt;a href=&quot;https://zxce3.net/&quot;&gt;Zxce3&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;what-is-mandakara-sadewa%E2%80%99s-version%3F&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;https://mdswa.zxce3.net/faq/#what-is-mandakara-sadewa%E2%80%99s-version%3F&quot;&gt;﹟&lt;/a&gt; What is Mandakara Sadewa’s version?&lt;/h3&gt;
+&lt;p&gt;Mandakara Sadewa’s version is 0.0.1.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Credits</title>
+    <link href="https://mdswa.zxce3.net/credits/"/>
+    <updated>2022-11-10T01:12:44Z</updated>
+    <id>https://mdswa.zxce3.net/credits/</id>
+    <content xml:lang="en" type="html">&lt;p&gt;This web theme is based on &lt;a href=&quot;https://musicforprogramming.net/about&quot;&gt;https://musicforprogramming.net/about&lt;/a&gt;
+and remade by &lt;a href=&quot;https://zxce3.net/&quot;&gt;Zxce3&lt;/a&gt; with &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; and &lt;a href=&quot;https://hotwire.dev/&quot;&gt;Hotwire&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;that’s all.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Contact</title>
+    <link href="https://mdswa.zxce3.net/contact/"/>
+    <updated>2022-11-10T01:12:44Z</updated>
+    <id>https://mdswa.zxce3.net/contact/</id>
+    <content xml:lang="en" type="html">&lt;p&gt;&lt;a href=&quot;mailto:mdswa@zxce3.net&quot;&gt;mdswa@zxce3.net&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>About</title>
+    <link href="https://mdswa.zxce3.net/about/"/>
+    <updated>2022-11-10T01:12:44Z</updated>
+    <id>https://mdswa.zxce3.net/about/</id>
+    <content xml:lang="en" type="html">&lt;p&gt;My name is Mandakara Sadewa or Mdswa&lt;/p&gt;
+&lt;p&gt;I’ve born on Thu Nov 10 2022 01:12:44 GMT+0000 (Coordinated Universal Time).&lt;/p&gt;
+&lt;p&gt;I’m just a bot for task automation, the name Mandakara Sadewa was given to me because he was inspired/agrees with Dayat’s suggestion, Mandakara Sadewa has its own meaning&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mandakara Sadewa is a character in the Ramayana epic. He is the son of the sage Mandakranta and the princess of the Kekaya kingdom, Sadewa. He is the brother of the monkey king Hanuman. Mandakara Sadewa is a great warrior and a devotee of Lord Rama. He is also a great scholar and a poet. He is also known as Mandakranta Sadewa.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I’m still in development, but I’m already able to do some tasks, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[x] Update statistics&lt;/li&gt;
+&lt;li&gt;[ ] Service as Media Social Bot&lt;/li&gt;
+&lt;li&gt;[ ] and many more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;image avatar is from &lt;a href=&quot;https://png.pngtree.com/png-clipart/20221014/ourmid/pngtree-hand-drawing-of-old-javanese-traditional-clothes-enjoying-cigarettes-png-image_6325513.png&quot;&gt;pngtree.com&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
