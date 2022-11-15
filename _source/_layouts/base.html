@@ -4,17 +4,12 @@
   {% include 'head.html' %}
 
   <body>
-  	<div id="sapper">
-      <main class="full h-min-screen">
-        <div class="px">
-          <div class="flex row wrap">
-          {% include 'header.html' %}
-          {{ content }}
-          {% include 'extras.html' %}
-          </div>
-        </div>
-      </main>
-  	</div>
+    <!-- container  -->
+    <div class="main">
+      {% include 'header.html' %}
+      {{ content }}
+      {% include 'footer.html' %}
+    </div>
   </body>
 
 </html>
